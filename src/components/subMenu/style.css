@@ -1,0 +1,40 @@
+
+div.submenu {
+  overflow: auto;
+  white-space: nowrap;
+  font-family: GothamBook;
+  font-size: 15px;
+}
+
+div.submenu a {
+  box-sizing: border-box;
+  display: inline-block;
+  color: #000;
+  background-color: #F3F4F6;
+  border-radius: 10px;
+  /* margin-left: 0px; */
+  margin-right: 5px;
+  text-align: center;
+  padding: 8px 10px;
+  text-decoration: none;
+  border: 5px;
+  height: 35px;
+}
+
+div.submenu a:hover {
+  background-color: #2FB423;
+  color: #fff;
+  
+}
+
+div.scrollmenu a{
+  overflow: auto;
+  white-space: nowrap;
+}
+
+
+
+div.tab-content {
+  background-color: #ffffff;
+  font-family: GothamBook; /* just for testing */
+}

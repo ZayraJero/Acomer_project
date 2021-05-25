@@ -1,0 +1,34 @@
+
+div.scrollmenu {
+  overflow: auto;
+  white-space: nowrap;
+  font-family: GothamBold;
+}
+
+div.scrollmenu a {
+  display: inline-block;
+  color: #B1B3B8;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+  border: 5px;
+}
+
+div.scrollmenu a:hover {
+  color: #2FB423;
+  border-bottom: 1px solid #2FB423;
+}
+
+div.scrollmenu a{
+  overflow: auto;
+  white-space: nowrap;
+}
+
+
+
+div.tab-content {
+  background-color: #ffffff;
+  font-family: GothamBook; /* just for testing */
+}
+
+

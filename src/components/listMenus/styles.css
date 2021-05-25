@@ -1,0 +1,25 @@
+.user-name {
+  display: flex;
+}
+
+.user-menu {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.menu-name {
+  font-family: GothamBold;
+  font-size: 17px;
+  margin: 0;
+  width: 100%;
+}
+
+.description-menu {
+  font-family: GothamBook;
+  font-size: 13px;
+  color: #8c8e90;
+}
+
+.menu-name span {
+  float: right;
+}

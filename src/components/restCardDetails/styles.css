@@ -1,0 +1,38 @@
+.images_frames {
+  margin-top: -10px;
+}
+.image_cols {
+  width: auto;
+}
+.rest-photo {
+  height: 150px;
+  width: 100%;
+}
+.restaurant-type {
+  margin-top: -5px;
+  font-family: GothamBook;
+  font-size: 14px;
+}
+.name {
+  font-family: GothamBold;
+  font-size: 22px;
+}
+.direction {
+  display: flex;
+  align-items: flex-start;
+  font-family: GothamBook;
+  font-size: 14px;
+}
+.icon-pin {
+  margin-right: 10px;
+}
+.icon-cash {
+  margin: 3px 5px 10px 7px;
+}
+
+@media (min-width: 767px) {
+  .icon-cash {
+    width: 3%;
+    margin: 5px 15px 0 2px;
+  }
+}

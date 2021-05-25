@@ -1,0 +1,25 @@
+
+.status{
+    margin-top: 30px;
+    font-family: GothamBold;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 0px;
+    color:black;    
+}
+.inactive{
+    color:rgb(141, 141, 141);
+}
+.img{
+    margin-right: 25px;
+}
+.img-car{
+    margin-right: 15px;
+}
+
+.img-check{
+    margin-right: 20px;
+}
+.img-inactive{
+    filter: grayscale(75%);
+}

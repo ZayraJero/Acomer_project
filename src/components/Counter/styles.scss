@@ -1,0 +1,24 @@
+.counter{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
+.number{
+    justify-content: center;
+    margin-top: 10px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-family: GothamBook;
+    font-size: 14px;
+}
+
+button.button.btn.btn-primary {
+    width: 37px;
+    height: 37px;
+    border-radius: 25px;
+    color:black;
+    background-color: #F3F4F6;
+    border-color:#F3F4F6 ;
+    font-family:Gotham-Book;
+
+}

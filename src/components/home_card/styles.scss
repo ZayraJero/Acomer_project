@@ -1,0 +1,46 @@
+.card {
+  border: none;
+  border-radius: 10px;
+  background-color: #f9fafb;
+  box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+.rest-name {
+  font-family: GothamBold;
+  font-size: 20px;
+  margin-top: -13px;
+  margin-bottom: 1px;
+}
+
+.metros {
+  display: flex;
+  align-items: baseline;
+  font-family: GothamBook;
+  font-size: 12px;
+  margin-bottom: 1px;
+}
+
+.icon-money {
+  margin: 3px 7px 0 0;
+}
+
+@media (min-width: 767px) {
+  .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+  }
+  .rest-name {
+    font-size: 25px;
+    margin-top: -10;
+    margin-bottom: 15px;
+  }
+  .metros {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  .icon-money {
+    width: 5%;
+    margin: 20px 15px 0 0;
+  }
+}

@@ -1,0 +1,12 @@
+.user-info {
+  background-color: #f3f4f6;
+  color: #000000;
+  border: none;
+  border-radius: 5px;
+  font-family: GothamBold;
+  font-size: 14px;
+  margin-bottom: 8px;
+}
+.user-info:hover {
+  background-color: #2fb423;
+}
